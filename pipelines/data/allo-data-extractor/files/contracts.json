@@ -1,0 +1,33 @@
+{
+  "project_registry": [
+    {
+      "chain": "ethereum",
+      "start_block": 16071515,
+      "address": "0x03506eD3f57892C85DB20C36846e9c808aFe9ef4"
+    },
+    {
+      "chain": "optimism",
+      "start_block": 18864952,
+      "address": "0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174"
+    },
+    {
+      "chain": "fantom",
+      "start_block": 50029203,
+      "address": "0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174"
+    }
+  ],
+  "program_factory":[
+    {
+      "chain": "ethereum",
+      "start_block": 16994410,
+      "address": "0x56296242CA408bA36393f3981879fF9692F193cC"
+    }
+  ],
+  "round_factory":[
+    {
+      "chain": "ethereum",
+      "start_block": 16994410,
+      "address": "0x9Cb7f434aD3250d1656854A9eC7A71EceC6eE1EF"
+    }
+  ]
+}
